@@ -30,10 +30,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello-react-front-end] <a name="about-project"></a>
+# 📖 [hello-rails-back-end] <a name="about-project"></a>
 
 >
-"hello-react-back-end" is a back end application bulid with rails that randomly display greeting messages.
+"hello-rails-back-end" is a back end application bulid with rails that randomly display greeting messages.
 
 
 
