@@ -1,14 +1,14 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  username: mohammad_yaser
+  username: postgres
   password: 456
   host: localhost
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
 
 development:
   <<: *default
-  database: greeting_app_development
+  database: rails-backend_development
   username: postgres
   password: elpaso
 test:
