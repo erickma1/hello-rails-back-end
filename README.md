@@ -42,6 +42,18 @@
 
 - Ruby on rails 
 
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Server</summary>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
+</details>
+<details>
+  <summary>Database</summary>
+    <li><a href="https://www.postgresql.org/">Postgres</a></li>
+</details>
+
 
 <!-- Features -->
 
