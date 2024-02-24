@@ -8,6 +8,7 @@ AllCops:
     - "db/schema.rb"
     - "config/**/*"
     - "Gemfile"
+    - "db/**/*"
 
   DisplayCopNames: true
 
